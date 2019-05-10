@@ -1,5 +1,4 @@
 ```
-shell
 
 usage: default_sg_rules.py [-h] [-v] (-S | -D | -A) [-rg RG_ID] [-sg SG_ID]
                            [-in INBOUND] [-out OUTBOUND]
@@ -26,7 +25,6 @@ optional arguments:
 ```
 
 ```
-shell
 
 usage: vpc_cleanup.py [-h] [-vpc VPC] [-rg REGION]
 
